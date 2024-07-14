@@ -46,3 +46,6 @@ State if you can place a bench (true or false)
 blueprint                    = { name = 'blueprint', label = 'Blueprint', weight = 200, type = 'item', image = 'blueprint.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = '' },
 workbench                    = { name = 'workbench', label = 'Workbench', weight = 20000, type = 'item', image = 'bench2.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = '' },
 ```
+<br>
+<br>
+You can edit this how you like but just give credits
